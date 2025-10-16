@@ -1,9 +1,0 @@
-Hi how are you test 2. 
-
-And this is what we can do
-
-
-
-
-
-This is all about Git and GitHub integration with VScode.
